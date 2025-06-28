@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Welcome to Our  E-commerce Application! Khalti added as a online payment system</h2>
+<h2>First version of the Jave-based E-commerce Application is Ready!! Happy Purchasing!!</h2>
 </body>
 </html>
