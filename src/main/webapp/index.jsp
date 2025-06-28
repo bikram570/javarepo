@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>First version of the Jave-based E-commerce Application is Ready!! Happy Purchasing!!</h2>
+<h2> Deploying Java-based E-Commerce Application Using CICD Pipelines!!</h2>
 </body>
 </html>
