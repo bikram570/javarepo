@@ -1,5 +1,5 @@
 <html>
 <body>
-<h1> Final Ecommerce  App on Kubernetes Cluster using CI/CD Pipeline!!</h1>
+<h1> End of Kubernetes Class!!</h1>
 </body>
 </html>
